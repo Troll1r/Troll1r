@@ -9,8 +9,8 @@ Frontend-разработчик, делаю быстрые, доступные �
 <p align="center">
   <img alt="Followers" src="https://img.shields.io/github/followers/Troll1r?label=Followers&style=social" />
   <img alt="Stars" src="https://img.shields.io/github/stars/Troll1r?style=social" />
-  <img alt="Top language" src="https://img.shields.io/github/languages/top/Troll1r?color=yellowgreen" />
-  <img alt="Repo size" src="https://img.shields.io/github/repo-size/Troll1r?color=blue" />
+  <img alt="Top language" src="https://img.shields.io/github/languages/top/Troll1r/Troll1r?color=yellowgreen" />
+  <img alt="Repo size" src="https://img.shields.io/github/repo-size/Troll1r/Troll1r?color=blue" />
 </p>
 
 ## Обо мне
