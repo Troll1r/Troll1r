@@ -18,7 +18,7 @@ Frontend-разработчик, делаю быстрые, доступные �
 
 ## Языки
 - Русский — родной
-- English — intermediate / willing to improve
+- English — intermediate
 
 ## Технологии и инструменты
 - Языки / фреймворки: JavaScript, TypeScript, React  
