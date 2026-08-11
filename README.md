@@ -7,12 +7,10 @@
 Frontend-разработчик, делаю быстрые, доступные и приятные интерфейсы.
 
 <p align="center">
-  <a href="https://github.com/Troll1r"><img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=Troll1r&theme=onedark" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Troll1r"><img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Troll1r&show_icons=true&theme=tokyonight" /></a>
-  <a href="https://github.com/Troll1r"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Troll1r&layout=compact&theme=tokyonight" /></a>
+  <img alt="Followers" src="https://img.shields.io/github/followers/Troll1r?label=Followers&style=social" />
+  <img alt="Stars" src="https://img.shields.io/github/stars/Troll1r?style=social" />
+  <img alt="Top language" src="https://img.shields.io/github/languages/top/Troll1r?color=yellowgreen" />
+  <img alt="Repo size" src="https://img.shields.io/github/repo-size/Troll1r?color=blue" />
 </p>
 
 ## Обо мне
