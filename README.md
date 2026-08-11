@@ -25,20 +25,16 @@ Frontend-разработчик, делаю быстрые, доступные �
 - Языки / фреймворки: JavaScript, TypeScript, React  
 - Сборка / инструменты: Vite, Webpack, ESLint, Prettier  
 - API / данные: REST, GraphQL  
-- CI / Dev: GitHub Actions, Docker (по необходимости)
+- CI / Dev: GitHub Actions, Docker
 
 ## Проекты
-- [project-1](https://github.com/Troll1r/project-1) — краткое описание проекта 1  
-- [project-2](https://github.com/Troll1r/project-2) — краткое описание проекта 2  
-(Пришлите ссылки и короткие описания — добавлю реальные записи.)
+
 
 ## Контакты
 - Telegram: [@shsushbd](https://t.me/shsushbd)  
 - Email: <kiralpa1503@gmail.com>
 
-## Чем занимаюсь сейчас
-- Работаю над улучшением производительности UI и архитектуры компонентов.  
-- Внедряю лучшие практики accessibility и тестируемость компонентов.
+## Чем занимаюсь сейчас:
 
 ---
 Короткие примечания: тема виджетов — tokyonight; баннер встроен как SVG data URI, его можно заменить на файл banner.png при желании.
