@@ -1,8 +1,7 @@
 # Привет — я Александр (Troll1r) 👋
 
-<!-- Banner (inline SVG data URI). Если захотите, можно заменить на banner.png в репозитории -->
 <p align="center">
-  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='960' height='200'><defs><linearGradient id='g' x1='0' x2='1'><stop offset='0' stop-color='%237b2ff7'/><stop offset='1' stop-color='%232b86c5'/></linearGradient></defs><rect width='100%25' height='100%25' fill='url(%23g)'/><text x='50%25' y='55%25' dominant-baseline='middle' text-anchor='middle' font-size='44' fill='white' font-family='Arial, Helvetica, sans-serif' font-weight='700'>Александр%20—%20Frontend</text></svg>" alt="banner" />
+  <img src="./banner.svg" alt="banner" />
 </p>
 
 Frontend-разработчик, делаю быстрые, доступные и приятные интерфейсы.
@@ -29,12 +28,14 @@ Frontend-разработчик, делаю быстрые, доступные �
 
 ## Проекты
 
+(Пришлите ссылки и короткие описания — добавлю реальные записи.)
 
 ## Контакты
 - Telegram: [@shsushbd](https://t.me/shsushbd)  
 - Email: <kiralpa1503@gmail.com>
 
-## Чем занимаюсь сейчас:
+## Чем занимаюсь сейчас
+- Работаю над улучшением производительности UI и архитектуры компонентов.  
+- Внедряю лучшие практики accessibility и тестируемость компонентов.
 
 ---
-Короткие примечания: тема виджетов — tokyonight; баннер встроен как SVG data URI, его можно заменить на файл banner.png при желании.
