@@ -9,8 +9,6 @@ Frontend-разработчик, делаю быстрые, доступные �
 <p align="center">
   <img alt="Followers" src="https://img.shields.io/github/followers/Troll1r?label=Followers&style=social" />
   <img alt="Stars" src="https://img.shields.io/github/stars/Troll1r?style=social" />
-  <img alt="Top language" src="https://img.shields.io/github/languages/top/Troll1r/Troll1r?color=yellowgreen" />
-  <img alt="Repo size" src="https://img.shields.io/github/repo-size/Troll1r/Troll1r?color=blue" />
 </p>
 
 ## Обо мне
@@ -20,7 +18,7 @@ Frontend-разработчик, делаю быстрые, доступные �
 
 ## Языки
 - Русский — родной
-- English — intermediate / willing to improve (укажите уровень, если хотите)
+- English — intermediate / willing to improve
 
 ## Технологии и инструменты
 - Языки / фреймворки: JavaScript, TypeScript, React  
@@ -30,14 +28,10 @@ Frontend-разработчик, делаю быстрые, доступные �
 
 ## Проекты
 
-(Пришлите ссылки и короткие описания — добавлю реальные записи.)
+https://github.com/Troll1r/Cryptocurrency-dashboard
 
 ## Контакты
 - Telegram: [@shsushbd](https://t.me/shsushbd)  
 - Email: <kiralpa1503@gmail.com>
-
-## Чем занимаюсь сейчас
-- Работаю над улучшением производительности UI и архитектуры компонентов.  
-- Внедряю лучшие практики accessibility и тестируемость компонентов.
 
 ---
